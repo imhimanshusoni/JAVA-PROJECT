@@ -1,4 +1,3 @@
 # JAVA-PROJECT
 Here I'll upload my Java Projects
-![image](https://user-images.githubusercontent.com/71898557/186912828-7eec984a-3215-4ba5-bab8-ae40ef84b62b.png)
-
+![491909-min](https://user-images.githubusercontent.com/71898557/186913277-c90f5a0d-566d-49ee-aba3-140d1ac2275a.jpg)
